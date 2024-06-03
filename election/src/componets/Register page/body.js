@@ -3,7 +3,7 @@ const Body =()=>{
    <>
    <div className="register">
    <center>
-      <h1>Add Candidate</h1>
+      <h1>register</h1>
       <label>FIRST NAME:<input type="text" /> </label>
       <br></br><br></br>
       <label>LAST NAME:<input type="text" /> </label>
@@ -24,11 +24,11 @@ const Body =()=>{
           <option value="other">Other</option>
         </select>
         <br></br><br></br>
-     <label>SELECT PARTY:</label>
+     <label>SELECT ROLE:</label>
         <select>
-          <option value="">Select PARTY</option>
-          <option value=" "></option>
-          <option value=" "></option>
+          <option value="">Select Role</option>
+          <option value="admin">admin</option>
+          <option value="voter">voter</option>
         </select>
         <br></br><br></br>
         <button type="submit">save</button>
