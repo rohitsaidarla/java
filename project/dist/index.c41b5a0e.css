@@ -1,0 +1,52 @@
+.logo img {
+  width: 80px;
+  height: 80px;
+}
+
+.button {
+  margin-top: 30px;
+  padding-right: 50px;
+}
+
+.button button {
+  background-color: #007bff;
+  margin: 5px;
+}
+
+.header {
+  color: #7fff00;
+  text-align: center;
+  background-color: #2b487b;
+  font-family: Times New Roman, Times, serif;
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+h3 {
+  color: #fe6b02;
+  text-align: center;
+  margin-top: 235px;
+  font-family: Times New Roman, Times, serif;
+  font-size: xx-large;
+}
+
+.footer {
+  color: #7fff00;
+  text-align: center;
+  background-color: #2b487b;
+  margin-top: 200px;
+  padding-block: 1px;
+  font-size: x-small;
+}
+
+img {
+  width: 30px;
+  height: 30px;
+  margin-left: 40px;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
